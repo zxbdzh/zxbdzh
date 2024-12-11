@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/zxbdzh/" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@zxbdzh.github?name=zxbdzh.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    <img alt="Moe Counter!" src="https://moecount.zxbdwy.online/?mode=ADD_NUM&name=github&min_num_length=5&out_mode=html">
   </a>
 </p>
 
