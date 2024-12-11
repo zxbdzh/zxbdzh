@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/zxbdzh/" target="_blank">
-    <img alt="Moe Counter!" src="https://moecount.zxbdwy.online/?mode=ADD_NUM&name=github&min_num_length=5">
+    <img alt="Moe Counter!" src="https://moecount.zxbdwy.online/?mode=ADD_NUM&name=github&min_num_length=12">
   </a>
 </p>
 
