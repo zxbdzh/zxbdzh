@@ -5,7 +5,7 @@
 
 [![Oh Hello Eveyone](https://github-readme-stats.vercel.app/api?username=zxbdzh&show_icons=true&theme=tokyonight)](https://space.bilibili.com/106360063)
 
-[![CSDN](https://img.shields.io/badge/CSDN-zxbdzh-green)](https://blog.zxbdwy.online)
+[![CSDN](https://img.shields.io/badge/Blog-zxbdzh-green)](https://blog.zxbdwy.online)
 [![Gitee](https://img.shields.io/badge/Gitee-zxbdzh-red)](https://gitee.com/zxbdzh)
 
 [![Develop](https://img.shields.io/badge/code-Develop-blue)](https://en.wikipedia.org/wiki/Software_development) 
