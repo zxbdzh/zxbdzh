@@ -15,7 +15,6 @@
 
 </div>
 
-![头像](image/头像.png)
 <iframe src="https://moecount.zxbdwy.online/?mode=ADD_NUM&name=github&min_num_length=5&out_mode=html" frameborder="0" scrolling="no" width="100%" height="100px"></iframe>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&lines=zxbdzh
