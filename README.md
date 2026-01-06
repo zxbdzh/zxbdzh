@@ -3,8 +3,6 @@
 
 ![Modern Java template][github-sub-title:img]
 
-[![Oh Hello Eveyone](https://github-readme-stats.vercel.app/api?username=zxbdzh&show_icons=true&theme=tokyonight)](https://space.bilibili.com/106360063)
-
 [![CSDN](https://img.shields.io/badge/Blog-zxbdzh-green)](https://blog.zxbdwy.online)
 [![Gitee](https://img.shields.io/badge/Gitee-zxbdzh-red)](https://gitee.com/zxbdzh)
 
