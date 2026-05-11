@@ -67,22 +67,9 @@ current_mode:
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=zxbdzh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF3864&text_color=C9D1D9" alt="GitHub stats" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxbdzh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages" />
-
-<br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxbdzh&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF3864&point=41F287&area=true" alt="GitHub activity graph" />
 
 </div>
-
-## ./connect
-
-```txt
-blog   : https://blog.zxbdwy.online
-gitee  : https://gitee.com/zxbdzh
-github : https://github.com/zxbdzh
-```
 
 <div align="center">
 
