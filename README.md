@@ -10,11 +10,10 @@
   <a href="https://blog.zxbdwy.online"><img src="https://img.shields.io/badge/Blog-zxbdwy.online-00f5ff?style=for-the-badge&logo=rss&logoColor=111111" alt="Blog" /></a>
   <a href="https://gitee.com/zxbdzh"><img src="https://img.shields.io/badge/Gitee-zxbdzh-c71d23?style=for-the-badge&logo=gitee&logoColor=ffffff" alt="Gitee" /></a>
   <a href="https://github.com/zxbdzh"><img src="https://img.shields.io/badge/GitHub-zxbdzh-111111?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://githubroast.dev/u/zxbdzh"><img src="https://githubroast.dev/api/badge/zxbdzh" alt="GitHub Roast 评分徽章" /></a>
 </p>
 
 </div>
-
-[![GitHub Roast](https://githubroast.dev/api/card/zxbdzh)](https://githubroast.dev/u/zxbdzh)
 
 ```txt
 ┌─[ zxbdzh@github ]──────────────────────────────────────────────┐
