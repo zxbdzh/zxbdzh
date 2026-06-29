@@ -14,6 +14,8 @@
 
 </div>
 
+[![GitHub Roast](https://githubroast.dev/api/card/zxbdzh)](https://githubroast.dev/u/zxbdzh)
+
 ```txt
 ┌─[ zxbdzh@github ]──────────────────────────────────────────────┐
 │ role      : Java 全栈开发 / 系统构建者                            │
